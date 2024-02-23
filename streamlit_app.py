@@ -1,5 +1,5 @@
-pip install langchain
-pip install openai
+!pip install langchain
+!pip install openai
 
 import streamlit as st
 from langchain.llms import OpenAI
