@@ -1,5 +1,6 @@
 python-dotenv
 langchain
+langchain_community
 openai
 chromadb
 
