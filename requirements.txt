@@ -3,4 +3,5 @@ langchain
 langchain_community
 openai
 chromadb
-
+sqlalchemy
+langchain_openai
